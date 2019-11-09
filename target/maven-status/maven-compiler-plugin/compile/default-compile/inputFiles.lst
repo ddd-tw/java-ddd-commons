@@ -1,0 +1,15 @@
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/interfaces/ITranslator.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/EntityId.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/Enumeration.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/AggregateRoot.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/utilities/DomainModelMapper.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/interfaces/IRepository.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/interfaces/IFactory.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/utilities/DateTimeUtil.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/Specification.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/DomainEvent.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/DomainException.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/Entity.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/utilities/MillisOrLocalDateTimeDeserializer.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/interfaces/ISelector.java
+/Users/yikaikao/git/java-ddd-commons/src/main/java/solid/humank/ddd/commons/baseclasses/ValueObject.java
